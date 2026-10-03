@@ -1,0 +1,12 @@
+{
+  "id": "MoreDefectAnimations",
+  "name": "更多机器人动画（独立手机版）",
+  "author": "page；手机版打包：Codex",
+  "version": "0.15.1",
+  "min_game_version": "0.111.0",
+  "description": "为故障机器人卡牌添加特殊视觉效果。手机版独立包，不依赖 BaseLib、RitsuLib 或其他外部 Mod；设置默认全部启用。基于 Workshop 3810696310 原始资源与主程序集。",
+  "has_pck": false,
+  "has_dll": true,
+  "dependencies": [],
+  "affects_gameplay": false
+}
